@@ -13,7 +13,8 @@ pageextension 50101 MyCustPageExt extends "Customer List"
 
     actions
     {
-        // Add changes to page actions here
+        //THis is comments added
+        //ANd some more
     }
     
     var
