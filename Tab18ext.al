@@ -11,4 +11,5 @@ tableextension 50101 MyCustExt extends Customer
     var
         //myInt23 : Integer;
         myDec   : Decimal;
+        myInt : Integer;
 }
